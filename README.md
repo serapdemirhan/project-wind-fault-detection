@@ -1,6 +1,6 @@
 # Fault and Malfunction Detection ML Modelling for Onshore Wind Turbine
 
-# Accessing Data Instructions
+## Accessing Data Instructions
 
 The data files for this project have large sizes, so please follow these instructions to access and use them:
 
@@ -12,5 +12,5 @@ The data files for this project have large sizes, so please follow these instruc
 
 Please note that due to the large sizes of the data files, it's recommended to use a reliable internet connection and sufficient storage space on your device.
 
-# Data Attribution
+## Data Attribution
 The data used in this project is sourced from [Zenodo](https://zenodo.org/records/8252025), provided by Cubico Sustainable Investments Ltd under a CC-BY-4.0 open data license. Citation information and licensing details can be found on the Zenodo website.
